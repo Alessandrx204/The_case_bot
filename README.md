@@ -14,16 +14,7 @@ Features
 	•	Custom welcome message for a specified user ID.
 	•	Stores user preferences and usernames in an SQLite database asynchronously.
 
-⸻
 
-Commands
-	•	/start — Displays a welcome message (custom for a specific user).
-	•	/help — Sends a sarcastic help message.
-	•	/lowercase or /lower — Sets mode to lowercase.
-	•	/uppercase or /upper — Sets mode to uppercase.
-	•	/capitalise — Sets mode to capitalised text.
-  •	/capitalize — joke response (i have nothing against american spelling it was just fun imo).
-	•	Other /langXX commands respond with humorous language setting messages but have no actual effect.
 
 ⸻
 
