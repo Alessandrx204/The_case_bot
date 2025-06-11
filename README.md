@@ -45,14 +45,25 @@ python the_case_bot.py
 
 ⸻
 
-How it works
-	•	When you send a command, it updates your mode in the SQLite database.
-	•	Normal text messages are replied to according to the stored mode.
-	•	The bot uses asynchronous SQLite access and Aiogram’s dispatcher to handle updates efficiently.
+🤖 Commands
 
-⸻
+/start — Displays a welcome message (custom for a specific user).
+/help — Sends a sarcastic help message.
+/lowercase or /lower — Sets mode to lowercase.
+/uppercase or /upper — Sets mode to uppercase.
+/capitalise — Sets mode to capitalised text.
+/capitalize — Joke response (no offense to American spelling).
+/langXX — Responds with a humorous language setting message (does nothing).
 
-License & Rights
+🧠 How it works
+
+When you send a command, your mode is updated in the SQLite database.
+Normal text messages are transformed according to your selected mode.
+The bot uses asynchronous SQLite access and Aiogram’s dispatcher for efficient updates.
+All configuration is handled directly in the main — hardcoding is an art!
+
+⚠️ License & Rights
 
 © Alssandrx 2025. All rights reserved unless specified otherwise upon request.
 
+“If you’re reading this, you’re probably bored. Go outside or write your own bot!”
