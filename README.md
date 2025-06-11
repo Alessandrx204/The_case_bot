@@ -48,11 +48,17 @@ python the_case_bot.py
 🤖 Commands
 
 /start — Displays a welcome message (custom for a specific user).
+
 /help — Sends a sarcastic help message.
+
 /lowercase or /lower — Sets mode to lowercase.
+
 /uppercase or /upper — Sets mode to uppercase.
+
 /capitalise — Sets mode to capitalised text.
+
 /capitalize — Joke response (no offense to American spelling).
+
 /langXX — Responds with a humorous language setting message (does nothing).
 
 🧠 How it works
